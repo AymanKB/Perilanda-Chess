@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=IRole
+comment0.text=\r\n\ Role\ of\ the\ chess\ piece\r\n\r\n\ @author\ ghyasi\r\n\ @version\ 0.0.0\r\n
+comment1.params=
+comment1.target=java.lang.String\ getRoleString()
+comment1.text=\r\n\ Get\ the\ string\ representation\ of\ role\r\n\r\n\ @return\ String\ representation\ of\ role\r\n
+comment2.params=col\ row\ owner
+comment2.target=IRole\ getNextRole(int,\ int,\ int)
+comment2.text=\r\n\ Get\ the\ next\ role\ of\ current\ role\r\n\r\n\ @return\ Next\ role\r\n
+comment3.params=from\ to
+comment3.target=boolean\ checkMove(Piece,\ Piece)
+comment3.text=\r\n\ Check\ if\ the\ piece\ can\ move\ from\ one\ piece\ to\ another\ piece\r\n\r\n\ @param\ from\ Start\ piece\r\n\ @param\ to\ End\ piece\r\n\ @return\ true\ if\ the\ piece\ can\ move,\ otherwise\ false\r\n
+numComments=4

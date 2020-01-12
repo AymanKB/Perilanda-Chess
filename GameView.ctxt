@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GameView
+comment0.text=\r\n\ GameView\r\n\r\n\ @author\ Ayman\r\n\ @version\ 0.0.0\r\n
+comment1.params=
+comment1.target=GameView()
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=
+comment2.target=void\ initView()
+comment2.text=\r\n\ Initialize\ view\ layout\r\n\r\n
+comment3.params=
+comment3.target=BoardView\ getBoardView()
+comment3.text=\r\n\ Get\ the\ board\ view\r\n\r\n\ @return\ Board\ view\r\n
+comment4.params=
+comment4.target=javafx.scene.control.MenuItem\ getNewMenuItem()
+comment4.text=\r\n\ Get\ New\ menu\ item\r\n\r\n\ @return\ New\ menu\ item\r\n
+comment5.params=
+comment5.target=javafx.scene.control.MenuItem\ getLoadMenuItem()
+comment5.text=\r\n\ Get\ Load\ menu\ item\r\n\r\n\ @return\ Load\ menu\ item\r\n
+comment6.params=
+comment6.target=javafx.scene.control.MenuItem\ getSaveMenuItem()
+comment6.text=\r\n\ Get\ Save\ menu\ item\r\n\r\n\ @return\ Save\ menu\ item\r\n
+numComments=7

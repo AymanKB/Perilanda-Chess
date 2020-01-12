@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AdvancerInvRole
+comment0.text=\r\n\ AdvancerInvRole\r\n\r\n\ @author\ ghyasi\r\n\ @version\ 0.0.0\r\n
+comment1.params=
+comment1.target=AdvancerInvRole()
+comment1.text=\r\n\ Constructor\r\n\r\n
+comment2.params=game
+comment2.target=AdvancerInvRole(Game)
+comment2.text=\r\n\ Constructor\r\n\r\n\ @param\ game\ Game\ model\r\n
+comment3.params=
+comment3.target=java.lang.String\ getRoleString()
+comment4.params=col\ row\ owner
+comment4.target=IRole\ getNextRole(int,\ int,\ int)
+comment5.params=from\ to
+comment5.target=boolean\ checkMove(Piece,\ Piece)
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BoardView
+comment0.text=\r\n\ BoardView\r\n\r\n\ @author\ Ayman\r\n\ @version\ 0.0.0\r\n
+comment1.params=
+comment1.target=BoardView()
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=
+comment2.target=void\ initView()
+comment2.text=\r\n\ Method\ initView\ -\ Initialize\ view\ layout\r\n\r\n
+comment3.params=globalIndex
+comment3.target=PieceView\ getPieceView(int)
+comment3.text=\r\n\ Get\ piece\ view\r\n\r\n\ @param\ globalIndex\ global\ index\r\n\ @return\ piece\ view\r\n
+comment4.params=col\ row
+comment4.target=PieceView\ getPieceView(int,\ int)
+comment4.text=\r\n\ Get\ piece\ view\r\n\r\n\ @param\ col\ Column\r\n\ @param\ row\ Row\r\n\ @return\ piece\ view\r\n
+numComments=5

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PieceView
+comment0.text=\r\n\ Piece\ view\r\n\r\n\ @author\ Ayman\r\n\ @version\ 0.0.0\r\n
+comment1.params=
+comment1.target=PieceView()
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=
+comment2.target=void\ initView()
+comment2.text=\r\n\ Method\ initView\ -\ Initialize\ view\ layout\r\n\r\n
+comment3.params=o\ arg
+comment3.target=void\ update(java.util.Observable,\ java.lang.Object)
+numComments=4

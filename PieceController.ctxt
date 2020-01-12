@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=PieceController
+comment0.text=\r\n\ Piece\ controller\r\n\r\n\ @author\ ayman\r\n\ @version\ 0.0.0\r\n
+comment1.params=model\ view\ gameController
+comment1.target=PieceController(Model.Piece,\ View.PieceView,\ GameController)
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=
+comment2.target=void\ addEventHandlers()
+comment2.text=\r\n\ Add\ event\ listener\r\n\r\n
+comment3.params=event
+comment3.target=void\ handle(javafx.scene.input.MouseEvent)
+comment4.params=event
+comment4.target=void\ handle(javafx.scene.input.DragEvent)
+comment5.params=event
+comment5.target=void\ handle(javafx.scene.input.DragEvent)
+comment6.params=event
+comment6.target=void\ handle(javafx.scene.input.DragEvent)
+numComments=7

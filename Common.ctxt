@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Common
+comment0.text=\r\n\ Common\ functions\r\n\r\n\ @author\ ghyasi\r\n\ @version\ 0.0.0\r\n
+comment1.params=col\ row
+comment1.target=int\ globalIndex(int,\ int)
+comment1.text=\r\n\ Convert\ column,\ row\ pair\ to\ global\ index\r\n\r\n\ @param\ col\ Column\r\n\ @param\ row\ Row\r\n\ @return\ Global\ index\r\n
+comment2.params=globalIndex
+comment2.target=int\ colOf(int)
+comment2.text=\r\n\ Get\ the\ column\ from\ global\ index\r\n\r\n\ @param\ globalIndex\ Global\ index\r\n\ @return\ Column\r\n
+comment3.params=globalIndex
+comment3.target=int\ rowOf(int)
+comment3.text=\r\n\ Get\ the\ row\ from\ global\ index\r\n\r\n\ @param\ globalIndex\ Global\ index\r\n\ @return\ Row\r\n
+numComments=4

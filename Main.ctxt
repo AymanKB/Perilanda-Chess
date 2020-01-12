@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Main\ class\ that\ starts\ the\ application\r\n\r\n\ @author\ Ayman\r\n\ @version\ 0.0.0\r\n
+comment1.params=
+comment1.target=Main()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Main\r\n
+comment2.params=stage
+comment2.target=void\ start(javafx.stage.Stage)
+comment2.text=\r\n\ Method\ start\r\n\r\n\ @param\ stage\ A\ parameter\r\n
+numComments=3
